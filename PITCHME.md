@@ -5,13 +5,20 @@
 #### Tue Hellstern
 @snapend
 
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[east span-50 text-center]
+    #### Agenda
+
+@snapend
+
 ---
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
 @snapend
 
 
-```python
+```python zoom-18
     import pandas as pd
     import numpy as np
     import matplotlib as plt
