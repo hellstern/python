@@ -26,6 +26,10 @@ Let your code do the talking!
 
     df = pd.read_csv("/home/kunal/Downloads/Loan_Prediction/train.csv") #Reading the dataset in a dataframe using Pandas
 ```
+@snap[south span-100 text-gray text-08]
+    @[1-3]()
+    @[4 zoom-13]()
+@snapend
 
 ---
 
